@@ -48,7 +48,7 @@ class RestaurantdbAdmin(admin.ModelAdmin):
 from django.contrib import admin
 from .models import Restaurantdb,RestaurantdbAdmin
 admin.site.register(Restaurantdb,RestaurantdbAdmin)
-```1
+```
 
 
 ## OUTPUT
